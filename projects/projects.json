@@ -25,32 +25,6 @@
     "links": {
       "code": "https://github.com/Muhammad-Mudaser/feature-store-data-pipeline"
     }
-  },
-  {
-    "name": "Social Media Sentiment Analysis",
-    "desc": "Streamed tweets using Python & Kafka, performed sentiment analysis with Python, and visualized insights using Power BI / Tableau.",
-    "image": "social-media-analysis",
-    "category": "data-analytics",
-    "links": {
-      "code": "https://github.com/Muhammad-Mudaser/feature-store-data-pipeline"
-    }
-  },
-  {
-    "name": "Social Media Sentiment Analysis",
-    "desc": "Streamed tweets using Python & Kafka, performed sentiment analysis with Python, and visualized insights using Power BI / Tableau.",
-    "image": "social-media-analysis",
-    "category": "data-analytics",
-    "links": {
-      "code": "https://github.com/Muhammad-Mudaser/feature-store-data-pipeline"
-    }
-  },
-  {
-    "name": "Social Media Sentiment Analysis",
-    "desc": "Streamed tweets using Python & Kafka, performed sentiment analysis with Python, and visualized insights using Power BI / Tableau.",
-    "image": "social-media-analysis",
-    "category": "data-analytics",
-    "links": {
-      "code": "https://github.com/Muhammad-Mudaser/feature-store-data-pipeline"
-    }
   }
+  
 ]
