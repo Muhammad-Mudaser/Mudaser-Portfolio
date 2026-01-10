@@ -25,14 +25,5 @@
     "links": {
       "code": "https://github.com/Muhammad-Mudaser/feature-store-data-pipeline"
     }
-  },
-  {
-    "name": "ETL Automation Project",
-    "desc": "Automated ETL workflow using Python and Apache Airflow. Cleans, transforms, and loads CSV/JSON datasets into PostgreSQL for analytics.",
-    "image": "ETL",
-    "category": "data-engineering",
-    "links": {
-      "code": "https://github.com/Muhammad-Mudaser/batch-analytics-etl-pipeline"
-    }
   }
 ]
