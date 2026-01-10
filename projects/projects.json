@@ -1,0 +1,29 @@
+[
+{
+    "name": "Real-time Data Pipeline",
+    "desc": "End-to-end streaming pipeline using Kafka, Spark Streaming, and PostgreSQL. Ingests, processes, and stores live user event data for analytics.",
+    "image": "Data-Pipeline",
+    "category": "data-engineering",
+    "links": {
+      "code": "https://github.com/Muhammad-Mudaser/user-event-streaming-pipeline"
+    }
+  },
+  {
+    "name": "ETL Automation Project",
+    "desc": "Automated ETL workflow using Python and Apache Airflow. Cleans, transforms, and loads CSV/JSON datasets into PostgreSQL for analytics.",
+    "image": "ETL",
+    "category": "data-engineering",
+    "links": {
+      "code": "https://github.com/Muhammad-Mudaser/batch-analytics-etl-pipeline"
+    }
+  },
+  {
+    "name": "Social Media Sentiment Analysis",
+    "desc": "Streamed tweets using Python & Kafka, performed sentiment analysis with Python, and visualized insights using Power BI / Tableau.",
+    "image": "social-media-analysis",
+    "category": "data-analytics",
+    "links": {
+      "code": "https://github.com/Muhammad-Mudaser/feature-store-data-pipeline"
+    }
+  }
+]

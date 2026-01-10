@@ -1,0 +1,85 @@
+[   
+    
+  {
+    "name": "Excel",
+    "icon": "https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"
+  },
+  {
+    "name": "SQL",
+    "icon": "https://img.icons8.com/color/48/000000/sql.png"
+  },
+  {
+    "name": "Power BI",
+    "icon": "https://img.icons8.com/color/48/000000/power-bi.png"
+  },
+  {
+    "name": "Tableau",
+    "icon": "https://img.icons8.com/color/48/000000/tableau-software.png"
+  },
+  
+  {
+    "name": "Python Automation",
+    "icon": "https://img.icons8.com/color/48/000000/python.png"
+  },
+  {
+    "name": "Selenium",
+    "icon": "https://img.icons8.com/color/48/000000/selenium-test-automation.png"
+  },
+  
+  {
+    "name": "Apache Spark",
+    "icon": "https://img.icons8.com/color/48/000000/apache-spark.png"
+  },
+  
+  {
+    "name": "Docker",
+    "icon": "https://img.icons8.com/color/48/000000/docker.png"
+  },
+  {
+    "name": "Apache Kafka",
+    "icon": "assets/images/skills/ApacheKafka.png"
+  },
+  {
+    "name": "PostgreSQL",
+    "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+  },
+  {
+    "name": "AWS",
+    "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+  },
+  {
+    "name": "Apache Airflow",
+    "icon": "assets/images/skills/ApacheAirflow.png"
+  },
+
+  {
+    "name": "Amazon SageMaker",
+    "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+  },
+
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }
+    
+]
