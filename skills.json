@@ -35,10 +35,7 @@
     "name": "Docker",
     "icon": "https://img.icons8.com/color/48/000000/docker.png"
   },
-  {
-    "name": "Apache Kafka",
-    "icon": "assets/images/skills/ApacheKafka.png"
-  },
+ 
   {
     "name": "PostgreSQL",
     "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
@@ -48,8 +45,12 @@
     "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
   },
   {
-    "name": "Apache Airflow",
-    "icon": "assets/images/skills/ApacheAirflow.png"
+  "name": "Apache Kafka",
+  "icon": "https://img.icons8.com/color/48/000000/apache-kafka.png"
+  },
+  {
+  "name": "Apache Airflow",
+  "icon": "https://img.icons8.com/color/48/000000/apache-airflow.png"
   },
 
   {
